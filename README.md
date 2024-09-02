@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hi there, I'm DarkZodiAk 👋
+
+I am 3rd year student that is interested in Android development on Kotlin. I like to build apps, learn new technologies and explore innovative solutions to complex problems.
+
+## 🛠 Skills & Tools
+
+- **Languages:** Kotlin, C++, Python
+- **Frameworks and Libraries:** Android SDK, Jetpack Compose, Coroutines & Flows, Retrofit, Room, Dagger/Hilt
+- **Design Patterns:** MVVM, MVI, Clean Architecture, SOLID, DRY
 
 <!--
-**DarkZodiAk/DarkZodiAk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📫 Get in Touch
+
+- **Email:** youremail@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
+Feel free to explore my repositories or reach out if you would like to collaborate on exciting projects. I am always open to networking opportunities and new challenges!
+
+## 🧩 Fun Fact
+
+I enjoy [mention your hobby or fun fact about yourself] when I'm not coding.
 -->
