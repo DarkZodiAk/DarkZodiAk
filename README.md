@@ -6,7 +6,8 @@ I am 3rd year student that is interested in Android development on Kotlin. I lik
 
 - **Languages:** Kotlin, C++, Python
 - **Frameworks and Libraries:** Android SDK, Jetpack Compose, Coroutines & Flows, Retrofit, Room, Dagger/Hilt
-- **Design Patterns:** MVVM, MVI, Clean Architecture, SOLID, DRY
+- **Design Patterns:** MVVM, MVI, Clean Architecture
+- **Programming principles:** SOLID, DRY, KISS
 
 <!--
 
