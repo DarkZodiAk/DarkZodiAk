@@ -1,4 +1,4 @@
-## Hi there, I'm DarkZodiAk 👋
+## Hi there, I'm Pavlusenko Evgenii 👋
 
 I am 3rd year student that is interested in Android development on Kotlin. I like to build apps, learn new technologies and explore innovative solutions to complex problems.
 
